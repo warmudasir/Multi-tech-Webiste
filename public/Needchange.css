@@ -1,0 +1,30 @@
+
+.font
+{
+    background-color:#e5e9ec;
+    padding: 40px;
+    
+}
+#last
+{
+    background-color:black;
+    height: 400px;
+    width: 100%;
+}
+@keyframes animate
+{
+    from{color: white;}
+    to{color: yellow;}
+}
+#headername
+{
+    animation: animate 0.2s  infinite alternate;
+}
+#navbar
+{
+    padding: 20px;
+}
+#mlogo
+{
+    height: 40px;
+}

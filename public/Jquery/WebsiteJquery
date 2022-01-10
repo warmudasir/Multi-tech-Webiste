@@ -1,0 +1,10 @@
+$(function(){
+
+$("#try").click(function(){
+
+$("#testing").slideToggle(2000);
+
+});
+
+
+});
